@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: //
-Disallow: /
+Disallow: /favcon.ico
 
 Sitemap: https://zhangzhisen.github.io/sitemap.xml
